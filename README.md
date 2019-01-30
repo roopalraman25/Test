@@ -1,2 +1,2 @@
 # Test
-Testing out github
+This is a valid readme file in the project/ resository.
